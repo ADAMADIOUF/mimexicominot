@@ -1,5 +1,9 @@
 const slides = [
   {
+    image: './images/l.png',
+    alt: 'Slide 2',
+  },
+  {
     image: './images/l1.png',
     alt: 'Slide 2',
   },
@@ -17,6 +21,10 @@ const slides = [
   },
   {
     image: './images/l5.png',
+    alt: 'Slide 2',
+  },
+  {
+    image: './images/l6.png',
     alt: 'Slide 2',
   },
 ]
