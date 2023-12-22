@@ -259,7 +259,7 @@ cursor: pointer;
   .nav-item a{
     color: var(--clr-white);
   }
-  .nav-menu .nav-item:hover{
+  .nav-menu .nav-item a:hover{
     color: var(--clr-primary-1);
   }
 @media (max-width: 768px) {
