@@ -273,6 +273,9 @@ text-transform: uppercase;
 transition: var(--transition);
 cursor: pointer;
   }
+  .nav-item a{
+    color: var(--clr-white);
+  }
   .nav-menu .nav-item:hover{
     color: var(--clr-primary-1);
   }
